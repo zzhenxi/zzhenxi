@@ -1,21 +1,18 @@
 
 ### Hi there ! 🙋‍♀️ 
-I'm jinhee who wants to be a **NLP Engineer** !   
+I'm jinhee who wants to be a _**NLP Engineer**_ !   
 
 🌈 **About me**  
 * I’m currently learning how to build DL model with pytorch   
  
-* I love ...🥰    
-_✨learning new things✨_   
-_writing📝_  
-_music🎧_  
+* I love ✨learning new things✨, writing📝  and music🎧  
 
 * How to reach me: 📧 [Email](oao3398@gmail.com)  
                
 * * *
 
-### Tech stack 🌱
-Languages & Library   
+💎 **Tech stack**    
+<br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" />   
 <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white" />
@@ -27,7 +24,7 @@ Languages & Library
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white" />
   
 
-tools   
+✍️ tools   
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" />
