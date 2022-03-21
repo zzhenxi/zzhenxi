@@ -3,7 +3,7 @@
 I'm jinhee who wants to be a _**NLP Engineer**_ !   
 
 🌈 **About me**  
-* I’m currently learning how to build DL model with pytorch   
+* I'm interested in Machine translation and NLP for search!
  
 * I love ✨learning new things✨, writing📝  and music🎧  
 
