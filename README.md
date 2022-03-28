@@ -3,8 +3,6 @@
 I'm jinhee who wants to be a _**NLP Engineer**_ !   
 
 🌈 **About me**  
-* I'm interested in Machine translation and NLP for search!
- 
 * I love ✨learning new things✨, writing📝  and music🎧  
 
 * How to reach me: 📧 [Email](oao3398@gmail.com)  
