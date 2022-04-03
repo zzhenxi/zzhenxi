@@ -4,6 +4,7 @@ I'm jinhee who wants to be a _**NLP Engineer**_.
 
 🌟 **Notice**   
 * Welcome to my GitHub !   
+
 * If you want to see the projects I've been working on, check out the **pinned**📌 below !   
   제가 진행한 프로젝트를 보고 싶으시다면, 아래의 핀📌을 확인해주세요 !
 
