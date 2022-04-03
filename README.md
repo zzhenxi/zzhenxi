@@ -8,7 +8,7 @@ I'm jinhee who wants to be a _**NLP Engineer**_.
   제가 진행한 프로젝트를 보고 싶으시다면, 아래의 핀📌을 확인해주세요 !
 
 🌈 **About me**  
-* I love ✨learning new things✨, writing📝  and music🎧  
+* I love ✨learning new things✨, writing📝, game🕹, and music🎧  
 
 * How to reach me: 📧 [Email](oao3398@gmail.com)  
                
