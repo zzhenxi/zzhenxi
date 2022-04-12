@@ -7,6 +7,7 @@ I'm jinhee who wants to be a _**NLP Engineer**_.
 
 * If you want to see the projects I've been working on, check out the **pinned**📌 below !   
   제가 진행한 프로젝트를 보고 싶으시다면, 아래의 핀📌을 확인해주세요 !
+* 이력과 포트폴리오를 보고 싶으시면, [노션 페이지](https://scandalous-ulna-3f2.notion.site/NLP-engineer-b4d6617da60c4b868b7b9c866265e6d1)를 참고해주세요 !
 
 🌈 **About me**  
 * I love ✨learning new things✨, writing📝, game🕹, and music🎧  
