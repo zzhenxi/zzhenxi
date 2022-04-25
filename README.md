@@ -1,6 +1,7 @@
 
 ### Hi ! 🙋‍♀️ 
 I'm jinhee who wants to be a _**NLP Engineer**_.    
+Interested in NLP and Machine Translation !
 
 🌟 **Notice**   
 * Welcome to my GitHub !   
