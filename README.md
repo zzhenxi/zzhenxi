@@ -23,40 +23,51 @@ NLP researcher working on Large Language Models, Small Language Models, and Agen
 ## 📄 International Publications
 
 1. **FairQE: Multi-Agent Framework for Mitigating Gender Bias in Translation Quality Estimation** [[paper]](https://drive.google.com/file/d/1dNKB2q0IVLq-UHSVI_OALLYk_0cpOqBs/view?usp=drive_link)
-   <br>**Jinhee Jang**, Juhwan Choi, Dongjin Lee, Seunguk Yu, YoungBin Kim — *ACL 2026*
+   <br>**Jinhee Jang**, Juhwan Choi, Dongjin Lee, Seunguk Yu, YoungBin Kim — *ACL 2026 Main*
 
 2. **LLM Agents at the Roundtable: A Multi-Perspective and Dialectical Reasoning Framework for Essay Scoring** [[paper]](https://aclanthology.org/2025.findings-emnlp.1072.pdf)
    <br>**Jinhee Jang**, Ayoung Moon, Minkyoung Jung, YoungBin Kim, Seung Jin Lee — *EMNLP 2025 Findings (Research at NC AI)*
 
 3. **Plug-in and Fine-tuning: Bridging the Gap between Small Language Models and Large Language Models** [[paper]](https://aclanthology.org/2025.acl-long.271.pdf)
-   <br>**Jinhee Jang**, Kyeonghyun Kim, Juhwan Choi, Yoonji Lee, Kyohoon Jin, YoungBin Kim — *ACL 2025*
+   <br>**Jinhee Jang**, Kyeonghyun Kim, Juhwan Choi, Yoonji Lee, Kyohoon Jin, YoungBin Kim — *ACL 2025 Main (Co-First Author)*
 
 4. **From Ground Trust to Truth: Disparities in Offensive Language Judgments on Contemporary Korean Political Discourse** [[paper]](https://aclanthology.org/2025.findings-emnlp.1199.pdf)
    <br>Seunguk Yu, Jungmin Yun, **Jinhee Jang**, YoungBin Kim — *EMNLP 2025 Findings*
 
-5. **SUMMPILOT: Bridging Efficiency and Customization for Interactive Summarization System** [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/35380)
-   <br>Jungmin Yun, Juhwan Choi, Kyohoon Jin, Soojin Jang, **Jinhee Jang**, YoungBin Kim — *AAAI 2025 Demo*
+5. **Tracing Calibration-Language Effects Through Multilingual MoE Compression**
+   <br>Minjeong Kwon, **Jinhee Jang**, Jungmin Yun, YoungBin Kim — *EACL 2027*
 
-6. **RefLens: End-to-End Evidence-Grounded Citation Verification with LLM Agents** [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/42361)
+6. **Isolating the Language Shell: A Content-Controlled Study of Multilingual Reasoning**
+   <br>Hoejoon Kwon, **Jinhee Jang**, Byeonggeuk Lim, YoungBin Kim — *EACL 2027 Findings*
+
+7. **RefLens: End-to-End Evidence-Grounded Citation Verification with LLM Agents** [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/42361)
    <br>SeungHoo Lee, Junehyoung Kwon, Jooweon Choi, JungMin Yun, Seunguk Yu, Yoonji Lee, **Jinhee Jang**, YoungBin Kim — *AAAI 2026 Demo*
 
-7. **Enhancing Domain Generalization Performance in Low-Resource Setting via External Dataset and Pseudo Labeling with SentenceBERT** [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10878970)
-   <br>Junho Lee, Seunguk Yu, **Jinhee Jang**, Keunhyung Park, YoungBin Kim — *IEEE Access 2025*
+8. **SUMMPILOT: Bridging Efficiency and Customization for Interactive Summarization System** [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/35380)
+   <br>Jungmin Yun, Juhwan Choi, Kyohoon Jin, Soojin Jang, **Jinhee Jang**, YoungBin Kim — *AAAI 2025 Demo*
 
-8. **Narrative Consistency in Large Language Model-Generated Stories: A Survey**
-   <br>Keunhyung Park, Seunguk Yu, **Jinhee Jang**, Hoejoon Kwon, Byeonggeuk Lim, YoungBin Kim — *IEEE Access 2026*
+9. **RI-Prune: Relation and Information Aware Visual Token Pruning for Multi-Image Vision-Language Models** [[paper]](https://arxiv.org/pdf/2611.06047)
+   <br>Dongjin Lee, Eunju Lee, **Jinhee Jang**, Junehyoung Kwon, YoungBin Kim — *CIKM 2026*
 
-9. **LLMs Become Logical Explainers through Multi-Agent Self-Play Framework** — *EMNLP 2026 (Under Review)*
+10. **Misalignment-Free Defocus Deblurring via Optically Guided Aligned Synthesis**
+    <br>Seunghoon Lee, Eunju Lee, Junehyoung Kwon, **Jinhee Jang**, YoungBin Kim — *WACV 2026*
 
-10. **Misalignment-Free Defocus Deblurring via Physics-Constrained Synthesis** — *ECCV 2026 (Under Review)*
+11. **Enhancing Domain Generalization Performance in Low-Resource Setting via External Dataset and Pseudo Labeling with SentenceBERT** [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10878970)
+    <br>Junho Lee, Seunguk Yu, **Jinhee Jang**, Keunhyung Park, YoungBin Kim — *IEEE Access 2025*
 
-11. **AnachroBench: Evaluating Anachronistic Hallucination in Large Vision-Language Models** — *WACV 2026 (Under Review)*
+12. **Narrative Consistency in Large Language Model-Generated Stories: A Survey**
+    <br>Keunhyung Park, Seunguk Yu, **Jinhee Jang**, Hoejoon Kwon, Byeonggeuk Lim, YoungBin Kim — *IEEE Access 2026*
 
-12. **Learning Normality from Abnormality: Logical Anomaly Detection without Normal Data** — *WACV 2026 (Under Review)*
+### Under Review
 
-13. **Layer-Wise Attention Insights for Efficient Token Pruning in Multi-Image Vision-Language Models** — *CIKM 2026 (Under Review)*
+13. **RECAP: Detecting and Correcting Prior-Directed Representation Shift in Visual Token Pruning**
+    <br>*CVPR 2027 (Under Review, 2nd Author)*
 
-14. **Grounded Confidence with Selective LLM Auditing for Reliable Long-Tailed Radiology Reports** — *Engineering Applications of Artificial Intelligence (Under Review)*
+14. **How Long Does Translated Exposure Help? Cross-Lingual Gains under Subsequent Supervision in Sequential Multilingual VQA Adaptation**
+    <br>*NAACL 2027 (Under Review, 3rd Author)*
+
+15. **Lost in Conversation: A Systematic Evaluation of Multilingual Multi-turn Jailbreak under Language Switching**
+    <br>*NAACL 2027 (Under Review, 3rd Author)*
 
 ## 📄 Domestic Publications
 
@@ -77,6 +88,7 @@ NLP researcher working on Large Language Models, Small Language Models, and Agen
 
 6. **Plug-and-Play Language Model을 활용한 한국어 언어모델 독성 제어** [[paper]](https://github.com/zzhenxi/zzhenxi/blob/main/documents/papers/Plug-and-Play%20Language%20Model%E1%84%8B%E1%85%B3%E1%86%AF%20%E1%84%92%E1%85%AA%E1%86%AF%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AB%20%E1%84%92%E1%85%A1%E1%86%AB%E1%84%80%E1%85%AE%E1%86%A8%E1%84%8B%E1%85%A5%20%E1%84%8B%E1%85%A5%E1%86%AB%E1%84%8B%E1%85%A5%E1%84%86%E1%85%A9%E1%84%83%E1%85%A6%E1%86%AF%20%E1%84%83%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A5%E1%86%BC%20%E1%84%8C%E1%85%A6%E1%84%8B%E1%85%A5_%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%87%E1%85%A9%E1%84%80%E1%85%AA%E1%84%92%E1%85%A1%E1%86%A8%E1%84%92%E1%85%AC%20%E1%84%8F%E1%85%A5%E1%86%B7%E1%84%91%E1%85%B2%E1%84%90%E1%85%B5%E1%86%BC%E1%84%8B%E1%85%B4%20%E1%84%89%E1%85%B5%E1%86%AF%E1%84%8C%E1%85%A6%20%E1%84%82%E1%85%A9%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%E1%84%8C%E1%85%B5_%E1%84%8C%E1%85%A630%E1%84%80%E1%85%AF%E1%86%AB_%E1%84%8C%E1%85%A66%E1%84%92%E1%85%A9.pdf)
    <br>*한국컴퓨터종합학술대회 (KCC) 2023 및 정보과학회 컴퓨팅의 실제 논문지, 제30권 제6호*
+
 
 ## 🚀 Research Projects
 
